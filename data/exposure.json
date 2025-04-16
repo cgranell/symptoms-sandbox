@@ -1,0 +1,762 @@
+[
+    {
+        "id": "21133c96-9644-4617-8158-c3314311225f",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "exposure-change",
+        "timestamp": "Tue Mar 04 2025 10:55:25 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "1",
+        "payload": {
+            "id": "37229582-2071-44ef-8eda-f5afd2bb4798",
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966",
+            "place": {
+                "id": "39.99300190657568--0.07188320159912111-50",
+                "name": "Investigación",
+                "latitude": 39.99300190657568,
+                "longitude": -0.07188320159912111,
+                "radius": 50
+            },
+            "emotionValues": [],
+            "successful": false,
+            "contextualConditions": {},
+            "weatherSummary": {
+                "weather": "Clouds",
+                "isWindy": true,
+                "lightCondition": "day"
+            }
+        }
+    },
+    {
+        "id": "e50c2338-193c-4588-8696-a03e7ed6125d",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 10:55:49 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "40d9c129-69bd-4f69-86cc-549c7eaccac4",
+            "questionnaireId": "pre-exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cómo puntuarías tu nivel de ansiedad en este momento?",
+                    "answer": 6,
+                    "millisecondsToAnswer": 4036
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 1904
+                },
+                {
+                    "title": "En una escala de 0 (nada) a 10 (completamente), ¿Cómo de cierto crees que es el pensamiento que tienes en este momento?",
+                    "answer": 10,
+                    "millisecondsToAnswer": 2615
+                },
+                {
+                    "title": "¿Qué piensas que ocurrirá durante la exposición?",
+                    "answer": "Funciona",
+                    "millisecondsToAnswer": 7828
+                }
+            ],
+            "notificationId": 1741082214,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "5c305bbb-0dfe-4caf-8589-6522a35a1bec",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 10:57:13 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "6bbff193-3e3e-4e7c-8bbb-b7d785553ba6",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "e49bf01d-f0c7-4b7c-8f0f-7d2a5fef0980",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 10:57:13 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "0eb9a44b-4ecc-4948-97c8-b903b5562f52",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "df579449-eec3-4bf5-b420-9d64a473defe",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 10:57:25 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "8fab7fbf-a760-4398-9fca-199c1e774417",
+            "questionnaireId": "exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cuánta ansiedad estás experimentando en este momento?",
+                    "answer": 6,
+                    "millisecondsToAnswer": 3285
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 2301
+                }
+            ],
+            "notificationId": 1741082331,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "9d13f558-bd93-4af6-ab24-73161c212a77",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 10:58:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "fee0ad5c-084e-499d-b7be-8185768d0504",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "728e9c39-3455-4edd-812e-ea4c9814795a",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 10:59:13 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "5e7d44ce-5dd5-440e-a097-a13c1c93e0a7",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "850def94-288b-4d29-bd0a-619b2b0dd622",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 10:59:28 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "ecb9d268-f821-4f22-a8fc-9bceabf8a41c",
+            "questionnaireId": "exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cuánta ansiedad estás experimentando en este momento?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 5263
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 2539
+                }
+            ],
+            "notificationId": 1741082396,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "08c5c205-6c07-4ffa-a5f4-1b392ecc79fc",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:00:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "8c3c6637-0c94-4475-9d7e-c973ecdfbc13",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "94b43876-bd11-4ef4-b4c2-3cd462db777b",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:00:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "377ee410-8fec-437c-b561-b10aa3601df2",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "9657772a-9b94-4c35-bb6e-906622cb4ea6",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:01:13 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "43ea7234-a0ed-4e95-8ff1-a1afe6a4a447",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "ffffe292-1763-4fb1-8ac2-a6d3bfa4ffdf",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 11:01:22 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "ccfbcf02-1b59-4aec-9a73-483be575546f",
+            "questionnaireId": "exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cuánta ansiedad estás experimentando en este momento?",
+                    "answer": 4,
+                    "millisecondsToAnswer": 1872
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 4,
+                    "millisecondsToAnswer": 2913
+                }
+            ],
+            "notificationId": 1741082523,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "dca1b773-1181-4e82-af7d-eaecb7ecab7a",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:02:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "5c0d57aa-02f1-4df8-94fe-7595d2b78efa",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "2eff828e-727b-457a-94cb-0ce804369592",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:03:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "c5dd7d51-5895-4d17-8a8f-cc53b0ecffd1",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "32e24621-99df-415c-8d3c-e09943728fbd",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:03:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "43568f5c-47e9-43c5-9c07-d676a3978f49",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "6afc2179-3f95-42c4-9708-0a4a1842ec5c",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 11:03:21 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "49dabd9c-435b-4a9a-b776-f972271de04b",
+            "questionnaireId": "exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cuánta ansiedad estás experimentando en este momento?",
+                    "answer": 4,
+                    "millisecondsToAnswer": 2626
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 4,
+                    "millisecondsToAnswer": 1409
+                }
+            ],
+            "notificationId": 1741082688,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "14622640-78f3-44fd-acd3-f92b92a53418",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:04:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "f465903c-77c0-45ec-9e8b-133612c750b3",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "31360760-c8bd-4d60-adb1-bbd7dbeb1369",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:05:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "3b844194-1234-4142-814d-cf41e2a413a2",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "b62bac21-7044-4fca-84dd-5bd4d688ebc0",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 11:05:21 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "32be26c3-2a12-4c81-a12b-d57014b7333e",
+            "questionnaireId": "exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cuánta ansiedad estás experimentando en este momento?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 1702
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 6,
+                    "millisecondsToAnswer": 1845
+                }
+            ],
+            "notificationId": 1741082790,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "02e04e55-5264-4cb2-b117-d858e7579ecc",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:06:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "4c1a7ffa-100a-4779-b35e-8d887ae21a9c",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "cd81edfa-163a-4bd9-8f79-07d2239733b9",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:06:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "f08ff845-a975-4c0b-930a-313ce26d29c0",
+            "latitude": 39.9930849,
+            "longitude": -0.0721436,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "ce0c361c-4e8f-44fd-847e-af17229872e7",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:06:56 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "ed9695c0-b3e1-4d75-b5cd-ded17a112a66",
+            "latitude": 39.9930759,
+            "longitude": -0.0721501,
+            "altitude": 128.5,
+            "horizontalAccuracy": 12.013999938964844,
+            "verticalAccuracy": 12.013999938964844,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "10382b6b-d45c-425b-a428-e4fe28b66192",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 11:07:29 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "5d3c347f-0c73-4311-b83d-d33e803d3d87",
+            "questionnaireId": "exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cuánta ansiedad estás experimentando en este momento?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 4837
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 6,
+                    "millisecondsToAnswer": 5255
+                }
+            ],
+            "notificationId": 1741082900,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "df374791-2c32-454e-94c8-9054aeca25db",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:08:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "8f1e7228-2117-4267-a6d8-adb240a11913",
+            "latitude": 39.9930759,
+            "longitude": -0.0721501,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "37b84944-8135-40f0-8237-0ba5372359e1",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:09:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "21ffbbb7-313a-45fd-bab9-612e0434414d",
+            "latitude": 39.9930759,
+            "longitude": -0.0721501,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "ad3630d8-0b37-4eec-8d17-ba4262497212",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "geolocation",
+        "timestamp": "Tue Mar 04 2025 11:09:12 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "3f1b2719-61e9-4322-9f6b-595898065f14",
+            "latitude": 39.9930759,
+            "longitude": -0.0721501,
+            "altitude": 128.5,
+            "horizontalAccuracy": 100,
+            "verticalAccuracy": 100,
+            "speed": 0,
+            "direction": 0,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "1081403c-9e3c-41ff-9b5d-c9a85529c209",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 11:09:21 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "60fc196b-14fb-4753-94fb-5ad848ac4395",
+            "questionnaireId": "exposure-questions",
+            "answers": [
+                {
+                    "title": "De 0 (ninguno) a 10 (máximo), ¿cuánta ansiedad estás experimentando en este momento?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 1575
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo puntuarías tu capacidad para tolerar la emoción que sientes ahora?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 2223
+                }
+            ],
+            "notificationId": 1741083024,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    },
+    {
+        "id": "984b56e8-860c-4c07-9d27-9c0e7c115463",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "exposure-change",
+        "timestamp": "Tue Mar 04 2025 11:10:13 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "2",
+        "payload": {
+            "id": "1c60f896-bcfb-4651-b3c3-fd9238945541",
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966",
+            "place": {
+                "latitude": 39.99300190657568,
+                "name": "Investigación",
+                "radius": 50,
+                "longitude": -0.07188320159912111,
+                "id": "39.99300190657568--0.07188320159912111-50"
+            },
+            "emotionValues": [
+                {
+                    "timestamp": {
+                        "value": 1741082149049,
+                        "offset": -60
+                    },
+                    "value": 6
+                },
+                {
+                    "timestamp": {
+                        "value": 1741082245316,
+                        "offset": -60
+                    },
+                    "value": 6
+                },
+                {
+                    "timestamp": {
+                        "value": 1741082368222,
+                        "offset": -60
+                    },
+                    "value": 5
+                },
+                {
+                    "timestamp": {
+                        "value": 1741082482789,
+                        "offset": -60
+                    },
+                    "value": 4
+                },
+                {
+                    "timestamp": {
+                        "value": 1741082601312,
+                        "offset": -60
+                    },
+                    "value": 4
+                },
+                {
+                    "timestamp": {
+                        "value": 1741082721045,
+                        "offset": -60
+                    },
+                    "value": 5
+                },
+                {
+                    "timestamp": {
+                        "value": 1741082849584,
+                        "offset": -60
+                    },
+                    "value": 5
+                },
+                {
+                    "timestamp": {
+                        "value": 1741082961554,
+                        "offset": -60
+                    },
+                    "value": 5
+                }
+            ],
+            "successful": true,
+            "contextualConditions": {},
+            "weatherSummary": {
+                "isWindy": true,
+                "lightCondition": "day",
+                "weather": "Clouds"
+            }
+        }
+    },
+    {
+        "id": "e9702f14-ec12-4c5d-8b62-25257318215a",
+        "patient_id": "ZtUhLSt9RV2HMCWw9TqO-363",
+        "study_id": "C42bQoDianL1NQNVWKvi",
+        "type": "questionnaire-answers",
+        "timestamp": "Tue Mar 04 2025 11:10:35 GMT+0100 (hora estándar de Europa central)",
+        "tz_offset": "60",
+        "device_id": "88b29302-1403-4c35-a8bf-bfb0c404b900",
+        "change": "0",
+        "payload": {
+            "id": "af62a900-a849-47d6-b81a-96b62b7ddaca",
+            "questionnaireId": "post-exposure-questions",
+            "answers": [
+                {
+                    "title": "¿Se ha cumplido lo que pensabas que iba a ocurrir antes de la exposición",
+                    "answer": "Sí",
+                    "millisecondsToAnswer": 5116
+                },
+                {
+                    "title": "De 0 (ninguna) a 10 (mucha), ¿cómo de cierto crees que es el pensamiento que tienes en este momento?",
+                    "answer": 5,
+                    "millisecondsToAnswer": 2385
+                },
+                {
+                    "title": "Respecto a tus creencias iniciales, ¿ha ocurrido lo que temías?",
+                    "answer": "Ghjj",
+                    "millisecondsToAnswer": 4635
+                }
+            ],
+            "notificationId": 1741083097,
+            "exposureId": "b480da7a-3152-4022-a64a-7f3f752cf966"
+        }
+    }
+]

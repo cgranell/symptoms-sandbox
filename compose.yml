@@ -1,0 +1,14 @@
+# Jupyter Lab: https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html
+# Open browser tab: http://localhost:8888/lab
+services:
+  jupyterlab:
+    build:
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/home/jovyan
+    ports:
+      - 8888:8888
+    container_name: sandbox_jupyterlab
+    environment:
+      JUPYTER_ALLOW_INSECURE_WRITES: true    
+    command: "start-notebook.py --NotebookApp.token=''"
